@@ -1,0 +1,16 @@
+{
+  "name": "generator-tmg",
+  "version": "0.1.0",
+  "description": "TMG generator",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.0.1"
+  },
+  "author": "http://github.com/basp",
+  "license": "MIT"
+}
