@@ -9,8 +9,10 @@
     "yeoman-generator"
   ],
   "dependencies": {
+    "lodash": "^4.17.4",
     "yeoman-generator": "^1.0.1"
   },
+  "private": true,
   "author": "http://github.com/basp",
   "license": "MIT"
 }
